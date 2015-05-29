@@ -1,0 +1,36 @@
+body {
+    padding:20px 10px;
+    font-family:Hans ;
+    max-width: 1000px;
+    margin: 0 auto; 
+    font-size: 1.4em;
+}
+h1 {
+    text-align: center;
+    color: #294860;
+}
+
+p {
+    margin: 10px 0;
+}
+.section3 {
+    background-color:black;
+    border-radius: 20px;
+    color: white;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.concept-description {
+    font-weight: lighter;
+    margin: 10px;
+    color: red;
+}
+  
+  .concept {
+    background-color: #DFEAF1;
+    padding: 4px;
+    margin: 10px;
+    border-radius: 4px;
+    color: black;
+  }
